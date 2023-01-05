@@ -1,2 +1,5 @@
-# lista-de-tarefas
-Códigos em C das questões da lista de exercício! Tudo feito no curso de C Básico 👌
+# Programming task 🌩️
+
+- **Objetivo:** Fazer a lista de exercícios em C 🧠
+- **Dificuldade:** ⭐⭐☆☆☆ (two star difficulty)
+- **Conclusão:** Operadores aritméticos, tipos de dados e variáveis 🌱
